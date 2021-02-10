@@ -21,7 +21,6 @@ Microserviço em Java, com jax-rs, jetty, Rest Easy
 Anexar arquivo
 
     http -v --form POST http://localhost:8080/s/i arq=@~/arquivo.txt
-    http -v --form POST http://localhost:8080/s/i arq=@~/arquivo.txt
 
 ### Testando com curl
 
